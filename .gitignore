@@ -1,10 +1,11 @@
 # unreal generated files
-Binaries/
-Build/
-DerivedDataCache/
-Intermediate/
-Saved/
-Content/StarterContent/
+/Binaries/
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Content/StarterContent/
 
 # visual studio files
 *.VC.db
+/**/*.ipch
