@@ -7,5 +7,5 @@
 /Content/StarterContent/
 
 # visual studio files
-*.VC.db
+/**/*.VC.db*
 /**/*.ipch
